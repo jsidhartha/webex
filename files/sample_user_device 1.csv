@@ -1,0 +1,3 @@
+location_name,Model,Type,firstName,lastName,email,mac,SN_NUM,primaryPhoneNumber
+1111,W60B,DIY,1111,test,test@example.com,805EC00C9C00,814962111111,6096101111
+1111,W60B,PRO,1111,test2,test2@example.com,805EC00C9C86,811111111111,6096111111
